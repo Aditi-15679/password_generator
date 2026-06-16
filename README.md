@@ -140,15 +140,7 @@ python password_generator.py
 
 ---
 
-Future Improvements
 
-- Graphical User Interface (GUI).
-- Password copy-to-clipboard feature.
-- Password export functionality.
-- Custom character set selection.
-- Password history management.
-
----
 
 Conclusion
 
